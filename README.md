@@ -12,7 +12,7 @@ The files in rollups folder is concatenation of one or more files in components 
 
 ### Install
 
-A partir do diretório de uma aplicação thrust, no seu terminal digite:
+From the directory of a thrust application, in your terminal type:
 
 ```
 thrust install cryptojs
