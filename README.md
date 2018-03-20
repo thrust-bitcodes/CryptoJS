@@ -12,12 +12,10 @@ The files in rollups folder is concatenation of one or more files in components 
 
 ### Install
 
-If you are not using bower then just include the .js file from rollups folder for whatever algorithm you want to use. UTF8 encoder is included in each rollup js. If you need UTF16 or Base64 encoder then also add corresponding files from components folder (see following example).
-
-Using Bower:
+A partir do diretório de uma aplicação thrust, no seu terminal digite:
 
 ```
-bower install cryptojslib
+thrust install cryptojs
 ```
 
 ### APIs
